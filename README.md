@@ -82,31 +82,6 @@ git clone https://github.com/your-username/restaurant-knowledge-assistant.git
 cd restaurant-knowledge-assistant
 ```
 
-### Install Dependencies
-
-```bash
-pip install -r requirements.txt
-```
-
-### Set Environment Variables
-
-Create a `.env` file:
-
-```env
-OPENAI_API_KEY=your_api_key
-```
-
-### Run Application
-
-```bash
-python app.py
-```
-
-or
-
-```bash
-gradio app.py
-```
 
 ## 💡 Example Queries
 

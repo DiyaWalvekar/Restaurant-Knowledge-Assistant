@@ -2,7 +2,7 @@
 
 An AI-powered Restaurant Knowledge Assistant built using Retrieval-Augmented Generation (RAG) to answer user queries about restaurant information, including menus, reservations, events, FAQs, and team details.
 
-The application leverages LangChain, ChromaDB, OpenAI Embeddings, and Gradio to provide accurate, context-aware, and source-grounded responses through semantic document retrieval.
+The application leverages LangChain, ChromaDB, HuggingFace model Embeddings, and Gradio to provide accurate, context-aware, and source-grounded responses through semantic document retrieval.
 
 ## 🚀 Features
 

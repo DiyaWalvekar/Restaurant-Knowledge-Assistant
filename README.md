@@ -68,7 +68,7 @@ Gradio Interface
 
 ## 📈 Key Achievements
 
-- Developed a Retrieval-Augmented Generation (RAG) pipeline using LangChain, ChromaDB, and OpenAI Embeddings.
+- Developed a Retrieval-Augmented Generation (RAG) pipeline using LangChain, ChromaDB, and HuggingFace model Embeddings.
 - Achieved 90%+ query relevance through semantic search and context-aware retrieval.
 - Built an AI-powered Q&A assistant capable of answering restaurant-related queries with source-grounded responses.
 - Deployed an interactive web application using Gradio for real-time user interaction.
